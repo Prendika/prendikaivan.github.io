@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
